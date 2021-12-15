@@ -11,3 +11,5 @@ Add more machine learning model (for comparison)
 Deployment
 
 For Explanation: https://docs.google.com/presentation/d/1xVp8nNy_AC_MUZaXbwmw4RiYzHFTuMZckUTP-gx9z-c/edit?usp=sharing
+
+For accessing dataset from scrapping: https://drive.google.com/file/d/1-1g8U9tKILzcW9cnzs2rAiyXfRwV8w9G/view?usp=sharing
